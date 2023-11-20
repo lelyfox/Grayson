@@ -16,6 +16,10 @@ ul {
     padding: 0 15px;
 }
 
+body{
+    background: grey;
+}
+
 ::-webkit-scrollbar{
     width: 15px;
 }
@@ -49,7 +53,7 @@ ul {
 }
 .header__nav {
     padding: 25px 0;
-    background: #FFF;
+    background: gray;
     
 }
 
